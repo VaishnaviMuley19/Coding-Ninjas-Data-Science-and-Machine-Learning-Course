@@ -1,1 +1,3 @@
-# Coding_Ninjas_Data_Science_and_Machine_Learning_Course
+# Description
+
+I will be uploading all assignments, tasks and projects did in this course.
